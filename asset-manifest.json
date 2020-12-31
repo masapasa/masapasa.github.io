@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/masapasa.github.io/static/css/main.3155fc3a.chunk.css",
+    "main.js": "/masapasa.github.io/static/js/main.202b368e.chunk.js",
+    "main.js.map": "/masapasa.github.io/static/js/main.202b368e.chunk.js.map",
+    "runtime-main.js": "/masapasa.github.io/static/js/runtime-main.cdd779f8.js",
+    "runtime-main.js.map": "/masapasa.github.io/static/js/runtime-main.cdd779f8.js.map",
+    "static/js/2.356fb6f1.chunk.js": "/masapasa.github.io/static/js/2.356fb6f1.chunk.js",
+    "static/js/2.356fb6f1.chunk.js.map": "/masapasa.github.io/static/js/2.356fb6f1.chunk.js.map",
+    "static/js/3.53a00e2a.chunk.js": "/masapasa.github.io/static/js/3.53a00e2a.chunk.js",
+    "static/js/3.53a00e2a.chunk.js.map": "/masapasa.github.io/static/js/3.53a00e2a.chunk.js.map",
+    "static/js/4.c66809a8.chunk.js": "/masapasa.github.io/static/js/4.c66809a8.chunk.js",
+    "static/js/4.c66809a8.chunk.js.map": "/masapasa.github.io/static/js/4.c66809a8.chunk.js.map",
+    "static/js/5.96fb9a1e.chunk.js": "/masapasa.github.io/static/js/5.96fb9a1e.chunk.js",
+    "static/js/5.96fb9a1e.chunk.js.map": "/masapasa.github.io/static/js/5.96fb9a1e.chunk.js.map",
+    "static/js/6.8922ce0d.chunk.js": "/masapasa.github.io/static/js/6.8922ce0d.chunk.js",
+    "static/js/6.8922ce0d.chunk.js.map": "/masapasa.github.io/static/js/6.8922ce0d.chunk.js.map",
+    "static/js/7.6c53285f.chunk.js": "/masapasa.github.io/static/js/7.6c53285f.chunk.js",
+    "static/js/7.6c53285f.chunk.js.map": "/masapasa.github.io/static/js/7.6c53285f.chunk.js.map",
+    "static/js/8.ce5a1358.chunk.js": "/masapasa.github.io/static/js/8.ce5a1358.chunk.js",
+    "static/js/8.ce5a1358.chunk.js.map": "/masapasa.github.io/static/js/8.ce5a1358.chunk.js.map",
+    "static/js/9.258794c7.chunk.js": "/masapasa.github.io/static/js/9.258794c7.chunk.js",
+    "static/js/9.258794c7.chunk.js.map": "/masapasa.github.io/static/js/9.258794c7.chunk.js.map",
+    "static/js/10.65da8114.chunk.js": "/masapasa.github.io/static/js/10.65da8114.chunk.js",
+    "static/js/10.65da8114.chunk.js.map": "/masapasa.github.io/static/js/10.65da8114.chunk.js.map",
+    "static/js/11.213c1583.chunk.js": "/masapasa.github.io/static/js/11.213c1583.chunk.js",
+    "static/js/11.213c1583.chunk.js.map": "/masapasa.github.io/static/js/11.213c1583.chunk.js.map",
+    "static/js/12.938b0b1d.chunk.js": "/masapasa.github.io/static/js/12.938b0b1d.chunk.js",
+    "static/js/12.938b0b1d.chunk.js.map": "/masapasa.github.io/static/js/12.938b0b1d.chunk.js.map",
+    "index.html": "/masapasa.github.io/index.html",
+    "static/css/main.3155fc3a.chunk.css.map": "/masapasa.github.io/static/css/main.3155fc3a.chunk.css.map",
+    "static/js/2.356fb6f1.chunk.js.LICENSE.txt": "/masapasa.github.io/static/js/2.356fb6f1.chunk.js.LICENSE.txt",
+    "static/js/3.53a00e2a.chunk.js.LICENSE.txt": "/masapasa.github.io/static/js/3.53a00e2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdd779f8.js",
+    "static/js/3.53a00e2a.chunk.js",
+    "static/css/main.3155fc3a.chunk.css",
+    "static/js/main.202b368e.chunk.js"
+  ]
+}
