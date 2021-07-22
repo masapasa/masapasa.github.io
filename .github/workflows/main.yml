@@ -20,7 +20,7 @@ jobs:
         run: rm package.json && mv __package.json package.json
 
       - name: Login
-        run: git config  user.email "${{github.event.inputs.email}}" && git config  user.name "${{github.event.inputs.username}}"
+        run: git config --global user.email "apyakurel@gmail.com" && git config --global user.name "masapasa"
 
       - name: Push Data
         run: yarn push:blog

@@ -3,10 +3,10 @@ on:
   workflow_dispatch:
     inputs:
       username:
-        description: 'masapasa'
+        description: 'Your Name'
         required: true
       email:
-        description: 'apyakurel@gmail.com'
+        description: 'Your Email'
         required: true
 
 jobs:
@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - name: Login
-        run: git config  user.name "${{github.event.inputs.username}}" && git config  user.email "${{github.event.inputs.email}}"
+        run: git config --global user.name "${{github.event.inputs.username}}" && git config --global user.email "${{github.event.inputs.email}}"
 
       - name: Checkout
         uses: actions/checkout@v2.3.4
