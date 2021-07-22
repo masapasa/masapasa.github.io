@@ -1,0 +1,78 @@
+.Option {
+  padding: 1rem;
+  background: white;
+  text-align: center;
+  margin: 0;
+  border-radius: 0.5rem;
+  display: flex;
+
+  section {
+    border-right: 1px solid;
+    width: 60%;
+  }
+
+  aside {
+    flex-grow: 1;
+  }
+
+  dt,
+  dd {
+    margin: 0;
+    margin-bottom: 0.5rem;
+  }
+
+  &-List {
+    margin: 0;
+  }
+
+  &-Title {
+    padding-bottom: 1rem;
+  }
+
+  &-Tip {
+    margin-top: 2rem;
+    white-space: nowrap;
+    .WordsInputing {
+      color: gray;
+      font-size: 0.5rem;
+    }
+  }
+
+  &-Version {
+    padding-top: 2rem;
+    font-size: 0.5rem;
+    line-height: 1.5rem;
+  }
+
+  &-Box {
+    display: block;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    height: 100%;
+  }
+
+  &-Content {
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+  }
+}
+
+@media screen and (max-width: 740px) {
+  .Option {
+    display: block;
+    width: 70vw;
+
+    section {
+      border-right: none;
+      border-bottom: 1px solid;
+      width: auto;
+    }
+
+    &-Version {
+      padding-top: 0.5rem;
+    }
+    &-Tip {
+      margin-top: 0.5rem;
+    }
+  }
+}

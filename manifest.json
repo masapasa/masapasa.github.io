@@ -1,0 +1,12 @@
+{
+  "name": "saber2prの窝",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/static/icon/saber2pr-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}

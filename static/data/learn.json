@@ -1,0 +1,208 @@
+{
+  "程序语言": [
+    {
+      "name": "Typescript",
+      "icon": "https://typescript.bootcss.com/images/typescript-icon.svg",
+      "href": "https://www.typescriptlang.org/docs/handbook/release-notes/overview.html"
+    },
+    {
+      "name": "Less",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/ico-less.png",
+      "href": "http://lesscss.cn/"
+    },
+    {
+      "name": "C/C++",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/cpp.webp",
+      "href": "http://www.cplusplus.com/reference/"
+    },
+    {
+      "name": "Haskell",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/haskell.webp",
+      "href": "https://downloads.haskell.org/ghc/6.12.2/docs/html/libraries/index.html"
+    }
+  ],
+  "前端UI库": [
+    {
+      "name": "Ant Design",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/antd.svg",
+      "href": "https://ant-design.gitee.io/components/overview-cn/"
+    },
+    {
+      "name": "React",
+      "icon": "https://react.docschina.org/favicon.ico",
+      "href": "https://react.docschina.org/docs/getting-started.html"
+    },
+    {
+      "name": "Redux",
+      "icon": "https://redux.js.org/img/redux.svg",
+      "href": "https://www.redux.org.cn/"
+    },
+    {
+      "name": "React-Redux",
+      "icon": "https://redux.js.org/img/redux.svg",
+      "href": "https://react-redux.js.org/introduction/quick-start"
+    },
+    {
+      "name": "React-Router",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/react-router.webp",
+      "href": "https://reacttraining.com/react-router/web/guides/quick-start"
+    },
+    {
+      "name": "微信小程序",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/wxmini.webp",
+      "href": "https://developers.weixin.qq.com/miniprogram/dev/component/"
+    },
+    {
+      "name": "Taro",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/taro.webp",
+      "href": "https://taro-docs.jd.com/taro/docs/GETTING-STARTED.html"
+    }
+  ],
+  "工具库": [
+    {
+      "name": "Axios",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/ico-axios.svg",
+      "href": "http://www.axios-js.com/zh-cn/docs/"
+    },
+    {
+      "name": "Moment",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/moment-favicon.png",
+      "href": "http://momentjs.cn/docs/"
+    },
+    {
+      "name": "ECharts",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/echarts.webp",
+      "href": "https://echarts.apache.org/zh/option.html"
+    },
+    {
+      "name": "Lodash",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/lodash.webp",
+      "href": "https://lodash.com/docs/"
+    },
+    {
+      "name": "Immer",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/immerjs.webp",
+      "href": "https://immerjs.github.io/immer/docs/introduction"
+    },
+    {
+      "name": "Immutable.js",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/immutable.webp",
+      "href": "https://immutable-js.github.io/immutable-js/"
+    },
+    {
+      "name": "RxJS",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/rxjs.webp",
+      "href": "https://rxjs-cn.github.io/learn-rxjs-operators/"
+    },
+    {
+      "name": "Jquery",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/jquery.webp",
+      "href": "https://www.jquery123.com/"
+    }
+  ],
+  "构建工具": [
+    {
+      "name": "Webpack",
+      "href": "https://www.webpackjs.com/concepts/",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/webpack.webp"
+    },
+    {
+      "name": "Rollup",
+      "href": "https://www.rollupjs.com/",
+      "icon": "https://www.rollupjs.com/assets/images/logo.svg"
+    },
+    {
+      "name": "Gulp",
+      "href": "https://www.gulpjs.com.cn/docs/getting-started/quick-start/",
+      "icon": "https://www.gulpjs.com.cn/img/favicon.png"
+    },
+    {
+      "name": "Parcel",
+      "href": "https://zh.parceljs.org/getting_started.html",
+      "icon": "https://zh.parceljs.org/assets/parcel.png"
+    },
+    {
+      "name": "Git",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/0111git.webp",
+      "href": "https://git-scm.com/book/zh/v2"
+    }
+  ],
+  "辅助工具": [
+    {
+      "name": "稿定设计",
+      "href": "https://ps.gaoding.com/",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/gaodingsheji.svg"
+    },
+    {
+      "name": "代码编辑器",
+      "href": "https://saber2pr.top/editor/",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/vscode.webp"
+    },
+    {
+      "name": "Json类型",
+      "href": "https://saber2pr.top/json-type-app/",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/json-icon.webp"
+    },
+    {
+      "name": "思维导图",
+      "href": "https://fronted-tsx-developer.github.io/demos/mind.html",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/minder.webp",
+      "frame": true
+    },
+    {
+      "name": "时薪计算",
+      "href": "https://fronted-tsx-developer.github.io/demos/xinzi.html",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/icon-qianbao.webp",
+      "frame": true
+    },
+    {
+      "name": "二维码",
+      "href": "https://fronted-tsx-developer.github.io/demos/qrcode.html",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/qrcode.png",
+      "frame": true
+    },
+    {
+      "name": "Todo管理",
+      "href": "https://fronted-tsx-developer.github.io/demos/todotree/index.html",
+      "icon": "https://saber2pr.gallerycdn.vsassets.io/extensions/saber2pr/todolist/0.1.1/1624691220769/Microsoft.VisualStudio.Services.Icons.Default",
+      "frame": true
+    }
+  ],
+  "服务端": [
+    {
+      "name": "MongoDB",
+      "href": "http://www.mongoing.com/docs/crud.html",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/mongodb.webp"
+    },
+    {
+      "name": "Nodejs",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/ico-node.png",
+      "href": "http://nodejs.cn/api/"
+    },
+    {
+      "name": "Nestjs",
+      "href": "https://exlley.gitbooks.io/nest-js/content/",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/nestjs.webp"
+    },
+    {
+      "name": "Koa",
+      "href": "https://koa.bootcss.com/",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/koajs.webp"
+    },
+    {
+      "name": "Express",
+      "href": "http://www.expressjs.com.cn/starter/hello-world.html",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/express.webp"
+    },
+    {
+      "name": "Next.js",
+      "href": "https://www.nextjs.cn/docs/getting-started",
+      "icon": "https://nextjs.frontendx.cn/static/favicon/favicon.ico"
+    },
+    {
+      "name": "Docker",
+      "icon": "https://saber2pr.top/MyWeb/resource/image/docker.png",
+      "href": "https://hub.docker.com/_/node"
+    }
+  ]
+}

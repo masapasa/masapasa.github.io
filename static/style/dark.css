@@ -1,0 +1,326 @@
+body {
+  background-color: black;
+}
+
+* {
+  color: white;
+}
+
+.Audio {
+  background-color: black;
+}
+
+.AnchorHigh {
+  color: #a9a9a9;
+  background: black;
+  text-decoration: underline;
+}
+
+.AnchorHigh:hover {
+  color: white;
+  background: black;
+}
+
+.footer {
+  background: #0d0e10;
+}
+
+.footer-info {
+  color: #999;
+}
+
+.footer-uv {
+  color: #303030;
+}
+
+.Activity a {
+  color: #a9a9a9;
+}
+
+.Activity a:hover {
+  color: white;
+}
+
+*:not(.token)::selection {
+  color: black;
+  background-color: #a9a9a9;
+}
+
+.Home {
+  background-color: #121317;
+}
+
+.Blog-Aside {
+  background-color: black;
+}
+
+.Blog-Aside a:hover {
+  color: rgb(211, 211, 211);
+}
+
+.Blog-Aside-Btn {
+  background: black;
+  color: #6d6d6d;
+}
+
+.Blog-A-Active {
+  color: white !important;
+  border-left: 0.25rem solid #22773d;
+}
+
+.Blog-Main-Content {
+  background-color: black;
+}
+
+.Blog pre {
+  border: 1px solid #ccb6ff !important;
+  background-color: black !important;
+}
+
+.ScrollToTop:hover {
+  box-shadow: 0 0 20px rgba(221, 135, 249, 0.3);
+}
+
+.Activity pre {
+  border: 1px solid #ccb6ff;
+  background-color: black !important;
+}
+
+.Activity > ul > li:nth-child(n + 2)::before {
+  border-color: #72537a;
+}
+
+.About-Main-Content {
+  background-color: black;
+}
+
+.About-Aside {
+  background-color: black;
+}
+
+.About-Aside-Content-Proj {
+  background-color: black;
+  border: 1px solid black;
+  box-shadow: none;
+}
+
+.About-Aside-Content-Proj:hover {
+  background-color: black;
+  border: 1px solid pink;
+}
+
+.About a {
+  color: white;
+}
+
+.Audio .Base-Color {
+  background-color: #22773d;
+}
+
+.Audio i {
+  color: #607d8b;
+}
+
+.Option {
+  background: black;
+  border: 1px solid #ccb6ff;
+}
+
+.CheckUpdate {
+  background: black;
+  border: 1px solid #ccb6ff;
+}
+
+.CloseBtn {
+  border: 1px solid white;
+  top: 0.2rem;
+  right: 0.2rem;
+  background: black;
+}
+
+.MusicBox {
+  background: black;
+  border: 1px solid #ccb6ff;
+}
+
+.MusicBox-Pic {
+  box-shadow: 0 0 10px 3px #dd87f94d;
+}
+
+.Alert-Message {
+  background: black;
+  border: 1px solid #ccb6ff;
+}
+
+.Links-Own-Content-Link {
+  background-color: black;
+  border: 1px solid black;
+  box-shadow: none;
+}
+
+.Links-Own-Content-Link:hover {
+  background-color: black;
+  border: 1px solid #c0f8ff;
+}
+
+.Links-Friend-Content-Link {
+  background-color: black;
+  border: 1px solid black;
+  box-shadow: none;
+}
+
+.Links-Friend-Content-Link:hover {
+  background-color: black;
+  border: 1px solid #c0f8ff;
+}
+
+.Blog-Main-Content-Edit-A:hover {
+  color: #a0a0a0;
+  border-color: #72537a;
+}
+
+.Blog-Main-Content-Edit-A {
+  border-color: #474747;
+}
+
+.Blog-Main-Content a:not(.Blog-Main-Content-Edit-A) {
+  color: #a9a9a9;
+  background: black;
+  text-decoration: underline;
+}
+
+.Blog-Main-Content a:not(.Blog-Main-Content-Edit-A):hover {
+  color: white;
+  background: black;
+}
+
+.Blog .Ul-Name span {
+  color: #6d6d6d;
+}
+
+.Blog .Ul-Name-Active span {
+  color: white;
+}
+
+.Blog .Ul-Btn * {
+  color: #6d6d6d;
+}
+
+.main-bg {
+  display: none;
+}
+
+.Learn-List-Item {
+  border-bottom: 1px #72537a solid;
+}
+.Learn .libs {
+  border-radius: 0;
+  background: black;
+  box-shadow: none;
+}
+
+.Learn .libs li:hover .libs-A {
+  color: #6ec0e0;
+}
+
+.Learn .libs-A {
+  color: #cedaff;
+}
+
+.Activity-Content hr {
+  border-bottom: 1px solid greenyellow;
+}
+
+.Activity-Aside {
+  display: block;
+}
+
+.Activity-Aside i {
+  color: red;
+}
+
+.SearchInput-List {
+  background-color: black;
+  box-shadow: 1px 1px 1px #565b88;
+}
+
+.SearchInput-List a {
+  color: white !important;
+  background-color: black !important;
+  border: 1px solid transparent;
+}
+
+.SearchInput-List a:hover {
+  color: white !important;
+  border: 1px solid aqua;
+}
+
+.SearchInput-List-Key {
+  background-color: #9ac1c7;
+  color: black;
+}
+
+.SearchInput-List-More a {
+  color: #a9a9a9 !important;
+}
+
+.SearchInput-List-More a:hover {
+  color: white !important;
+}
+
+.SearchResult-Details {
+  background: black;
+}
+
+.SearchResult-Name::before {
+  border-bottom: 1px solid #ccb6ff;
+}
+
+@media screen and (max-width: 740px) {
+  .About-Aside-Content-Proj {
+    border: 1px solid pink;
+  }
+
+  .Links-Own-Content-Link {
+    border: 1px solid black;
+    border: 1px solid #c0f8ff;
+  }
+
+  .Links-Friend-Content-Link {
+    border: 1px solid black;
+    border: 1px solid #c0f8ff;
+  }
+
+  .Activity-Aside {
+    display: none;
+  }
+
+  .Blog pre {
+    border-left: none !important;
+    border-right: none !important;
+  }
+
+  .ScrollToTop {
+    border: 1px solid #9e78c11a;
+    box-shadow: 0 0 20px rgba(158, 124, 154, 0.3);
+    background: black;
+  }
+
+  .AniBtn {
+    border: 1px solid #9e78c11a;
+    box-shadow: 0 0 20px rgba(158, 124, 154, 0.3);
+    background: black;
+  }
+}
+
+.Acg .list-item:hover .list-item-name {
+  color: #6ec0e0 !important;
+}
+
+.PageV .header {
+  background: #424242;
+}
+
+.PageV .list .list-item:hover {
+  background: #dddddd2e;
+}
